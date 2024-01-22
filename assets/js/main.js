@@ -1,5 +1,5 @@
 /**
-* Template Name: iPortfolio
+* Template Name: iPortifólio
 * Updated: Mar 10 2023 with Bootstrap v5.2.3
 * Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
 * Author: BootstrapMade.com
@@ -197,7 +197,7 @@
   });
 
   /**
-   * Portfolio details slider
+   * Portifólio details slider
    */
   new Swiper('.portfolio-details-slider', {
     speed: 400,
