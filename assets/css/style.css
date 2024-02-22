@@ -14,6 +14,11 @@ body {
   color: #272829;
 }
 
+  .portfolio-img {
+    width: 100%; /* Define a largura para 100% para que todas as imagens tenham o mesmo tamanho */
+    height: auto; /* Define a altura como automática para manter a proporção */
+  }
+
 a {
   color: #149ddd;
   text-decoration: none;
