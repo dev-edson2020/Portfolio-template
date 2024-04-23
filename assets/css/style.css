@@ -240,7 +240,7 @@ h6 {
 }
 
 #hero:before {
-  content: "";
+  /* content: ""; */
   position: absolute;
   bottom: 0;
   top: 0;
